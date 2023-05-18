@@ -28,7 +28,7 @@
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=arhamabeer&show_icons=true&theme=monokai&line_height=27" alt="Pawan's github stats"/>
 </a>
 <a href="https://github.com/arhamabeer">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=Mahtab12381&layout=compact" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=Mahtab12381&layout=compact&theme=monokai" />
 </a
 <div align="center">
 
