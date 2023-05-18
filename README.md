@@ -42,9 +42,12 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=Mahtab12381&layout=compact&theme=monokai" />
 </a
  
-## 🏆 GitHub Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=arhamabeer&theme=nord&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-
+<img src="https://media.tenor.com/0ENB5HuTH0gAAAAi/trophy-beker.gif"  width="100px" height="100px"></p>
+  
+<!--🏆TROPHY / 🌐WEBSITE: https://github.com/ryo-ma/github-profile-trophy -->
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=trinib&theme=matrix&no-bg=true&no-frame=true&row=1&column=4&title=MultiLanguage,Commits,Followers,PullRequest">
+ </div>
 <div align="center">
  
  <h3 align="left">Connect with me:</h3>
