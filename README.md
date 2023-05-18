@@ -14,7 +14,7 @@
 - 😄 Pronouns: #AAA!🔥
 - ⚡ Fun fact: I google the new problem every single time...🤣
 ---
----
+
 
 <a href="https://www.buymeacoffee.com/abhisheknaiidu" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" /></a>
 
@@ -30,13 +30,15 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=Mahtab12381&layout=compact&theme=monokai" />
 </a
 
+ 
+<br>
+---
 <img src="https://media.tenor.com/0ENB5HuTH0gAAAAi/trophy-beker.gif"  width="100px" height="100px" /> </p>
   
 [![trophy](https://github-profile-trophy.vercel.app/?username=sciencepal&theme=juicyfresh&no-frame=true&row=1&&margin-w=20&no-bg=true)](https://github-profile-trophy.vercel.app/?username=sciencepal&theme=juicyfresh&no-frame=true&row=1&&margin-w=20&no-bg=true)
   
 ---
 
-<br>
 
 **Languages and Tools:**
 
