@@ -1,18 +1,16 @@
-### Hi there 👋
+### Hi there!!!👋
 
 <!-- 
 **arhamabeer/arhamabeer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
  -->
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🔭 I’m currently working on a Vending Machine Software.🎰
+- 🌱 I’m currently learning .NET Core + Docker.💡
+- 👯 I’m looking to collaborate on AI + IoT Projects.🤖
+- 🤔 I’m looking for help with Software Development Tools.👨‍💻
+- 💬 Ask me about any thing related to Technology.💻
+- 📫 How to reach me: avircoder@gmail.com📧
+- 😄 Pronouns: #AAA!🔥
+- ⚡ Fun fact: I google the new problem every single time...🤣
 
 **Languages and Tools:**
 
