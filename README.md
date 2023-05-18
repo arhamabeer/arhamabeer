@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/93d8a67084f94b2a444e510199a6e7622e5b09a3/topics/dotnet/dotnet.png"></code>
 
 <a href="https://github.com/arhamabeer">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arhamabeer&theme=monokai&hide=php" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arhamabeer&theme=monokai&hide=php,css,&size_weight=0.2&count_weight=0)" />
 </a>
 <a href="https://github.com/arhamabeer">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=arhamabeer&show_icons=true&theme=monokai&line_height=27" alt="Pawan's github stats"/>
