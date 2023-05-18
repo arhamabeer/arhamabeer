@@ -3,6 +3,8 @@
 <!-- 
 **arhamabeer/arhamabeer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
  -->
+ <p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
+ 
 - 🔭 I’m currently working on a Vending Machine Software.🎰
 - 🌱 I’m currently learning .NET Core + Docker.💡
 - 👯 I’m looking to collaborate on AI + IoT Projects.🤖
