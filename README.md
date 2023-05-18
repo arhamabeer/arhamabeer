@@ -18,7 +18,7 @@
 
 ---
 <div style="width: 100%; display: flex;flex-direction: column;align-items: center;">
-<a href="https://github.com/arhamabeer" style="margin:5px">
+<a href="https://github.com/arhamabeer" style="width: 100px;">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arhamabeer&theme=monokai&hide=php,css,&size_weight=0.2&count_weight=0&langs_count=8&layout=donut" />
 </a>
 <a href="https://github.com/arhamabeer">
