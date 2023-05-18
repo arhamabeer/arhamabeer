@@ -2,8 +2,8 @@
 
 <!-- 
 **arhamabeer/arhamabeer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
- -->arhamabeer
-  <img align="right" alt="GIF" src="https://github.com/arhamabeer/arhamabeer/blob/master/code.gif?raw=true" width="500" height="320" />
+ -->
+  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
  <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
 - 🔭 I’m currently working on a Vending Machine Software.🎰
