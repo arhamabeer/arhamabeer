@@ -17,8 +17,8 @@
 <a href="https://www.buymeacoffee.com/abhisheknaiidu" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
 
 ---
-<div>
-<a href="https://github.com/arhamabeer">
+<div style="width: 100%; display: flex;flex-direction: column;align-items: center;">
+<a href="https://github.com/arhamabeer" style="margin:5px">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arhamabeer&theme=monokai&hide=php,css,&size_weight=0.2&count_weight=0&langs_count=8&layout=donut" />
 </a>
 <a href="https://github.com/arhamabeer">
