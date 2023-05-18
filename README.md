@@ -3,7 +3,7 @@
 <!-- 
 **arhamabeer/arhamabeer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
  -->
- <p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
+ <img align="right" alt="GIF" src="https://github.com/arhamabeer/arhamabeer/code.gif" width="500" height="320" />
  <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
 - 🔭 I’m currently working on a Vending Machine Software.🎰
