@@ -12,7 +12,7 @@
 - 💬 Ask me about any thing related to Technology.💻
 - 📫 How to reach me: avircoder@gmail.com📧
 - 😄 Pronouns: #AAA!🔥
-- ⚡ Fun fact: I google a new problem every single time...🤣
+- ⚡ Fun fact: I google new problems every single time...🤣
 ---
 
 
