@@ -9,6 +9,7 @@
 - 🌱 I’m currently learning .NET Core + Docker.💡
 - 👯 I’m looking to collaborate on AI + IoT Projects.🤖
 - 🤔 I’m looking for help with Software Development Tools.👨‍💻
+- 👁️ I’m looking to work with senior developers and with their teams (REMOTELY).🚀
 - 💬 Ask me about any thing related to Technology.💻
 - 📫 How to reach me: avircoder@gmail.com📧
 - 😄 Pronouns: #AAA!🔥
