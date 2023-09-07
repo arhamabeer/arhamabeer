@@ -31,7 +31,7 @@
 </a>
 
  
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arhamabeer&" alt="stats" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arhamabeer&theme=monokai" alt="stats" /></p>
 
  
 <br>
