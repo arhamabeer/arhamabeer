@@ -69,7 +69,7 @@
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
       alt="adampithewan" height="30" width="40" /></a>
  
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aliyan03&" alt="aliyan03" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arhamabeer&" alt="stats" /></p>
 </p>
 </div>
 <div>
