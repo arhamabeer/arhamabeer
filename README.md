@@ -30,6 +30,8 @@
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=arhamabeer&show_icons=true&theme=monokai&line_height=27" alt="Pawan's github stats"/>
 </a>
 
+ 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arhamabeer&" alt="stats" /></p>
 
  
 <br>
@@ -68,8 +70,6 @@
  <a href="https://twitter.com/arhamabeer_" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
       alt="adampithewan" height="30" width="40" /></a>
- 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arhamabeer&" alt="stats" /></p>
 </p>
 </div>
 <div>
