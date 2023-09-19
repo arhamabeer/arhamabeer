@@ -19,17 +19,19 @@
 
 <a href="https://www.buymeacoffee.com/arhamabeer" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" /></a>
 ---
+<p>
 <a href="https://github.com/arhamabeer" style="width: 100px;">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arhamabeer&theme=monokai&hide=php,css,&size_weight=0.2&count_weight=0&langs_count=8&layout=donut" />
-</a>
-
+</a> </p>
+<p>
 <a href="https://github.com/arhamabeer">
   <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=arhamabeer&layout=compact&theme=monokai" />
-</a
+</a> </p>
+<p>
 <a href="https://github.com/arhamabeer">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=arhamabeer&show_icons=true&theme=monokai&line_height=27" alt="Pawan's github stats"/>
 </a>
-
+ </p>
  
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arhamabeer&theme=monokai" alt="stats" /></p>
 
