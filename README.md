@@ -32,9 +32,10 @@
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=arhamabeer&show_icons=true&theme=monokai&line_height=27" alt="Pawan's github stats"/>
 </a>
  </p>
- 
+
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arhamabeer&theme=monokai" alt="stats" /></p>
 
+<p><img align="center" src=" https://komarev.com/ghpvc/?username=arhamabeer&style=flat-square&color=blueviolet&theme=monokai" alt="stats" /></p>
  
 <br>
 <br>
