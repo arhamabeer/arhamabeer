@@ -34,8 +34,7 @@
  </p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arhamabeer&theme=monokai" alt="stats" /></p>
-
-<p> https://komarev.com/ghpvc/?username=arhamabeer&style=flat-square&color=blueviolet </p>
+<p><img align="center" src="https://komarev.com/ghpvc/?username=arhamabeer&style=flat-square&color=blueviolet" alt="stats" /></p>
  
 <br>
 <br>
