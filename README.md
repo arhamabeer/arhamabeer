@@ -29,14 +29,14 @@
 </a> </p>
 <p>
 <a href="https://github.com/arhamabeer">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=arhamabeer&show_icons=true&theme=monokai&line_height=27" alt="Pawan's github stats"/>
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=arhamabeer&show_icons=true&theme=monokai&line_height=27" alt="Arham's github stats"/>
 </a>
  </p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arhamabeer&theme=monokai" alt="stats" /></p>
 <p><img align="center" src="https://komarev.com/ghpvc/?username=arhamabeer&style=flat-square&color=blueviolet" alt="stats" /></p>
  
-<br>
+<br>f
 <br>
 <img src="https://media.tenor.com/0ENB5HuTH0gAAAAi/trophy-beker.gif"  width="100px" height="100px" /> </p>
  
@@ -44,7 +44,11 @@
   
 ---
 <div>
- [![An image of @arhamabeer's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/arhamabeer)](https://holopin.io/@arhamabeer)
+ <p>
+ <a href="https://github.com/arhamabeer">
+  <img align="center" src="https://holopin.me/arhamabeer)](https://holopin.io/@arhamabeer" alt="HoloPin Badge"/>
+ </a>
+ </p>
 </div>
 ---
 
