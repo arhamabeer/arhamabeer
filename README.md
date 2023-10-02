@@ -48,6 +48,7 @@
   <img align="center" src="https://holopin.me/@arhamabeer" alt="HoloPin Badge"/>
  </p>
 </div>
+
 ---
 
 **Languages and Tools:**
