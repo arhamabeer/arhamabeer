@@ -45,9 +45,8 @@
 ---
 <div>
  <p>
- <a href="https://github.com/arhamabeer">
-  <img align="center" src="https://holopin.me/arhamabeer)](https://holopin.io/@arhamabeer" alt="HoloPin Badge"/>
- </a>
+  <img align="center" src="https://holopin.me/arhamabeer" alt="HoloPin Badge"/>
+  [![An image of @arhamabeer's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/arhamabeer)](https://holopin.io/@arhamabeer)
  </p>
 </div>
 ---
