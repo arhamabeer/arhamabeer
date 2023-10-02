@@ -36,7 +36,8 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arhamabeer&theme=monokai" alt="stats" /></p>
 <p><img align="center" src="https://komarev.com/ghpvc/?username=arhamabeer&style=flat-square&color=blueviolet" alt="stats" /></p>
  
-<br>f
+<br>
+---
 <br>
 <img src="https://media.tenor.com/0ENB5HuTH0gAAAAi/trophy-beker.gif"  width="100px" height="100px" /> </p>
  
