@@ -43,7 +43,10 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=sciencepal&theme=juicyfresh&no-frame=true&row=1&&margin-w=20&no-bg=true)](https://github-profile-trophy.vercel.app/?username=sciencepal&theme=juicyfresh&no-frame=true&row=1&&margin-w=20&no-bg=true)
   
 ---
-
+<div>
+ [![An image of @arhamabeer's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/arhamabeer)](https://holopin.io/@arhamabeer)
+</div>
+---
 
 **Languages and Tools:**
 
