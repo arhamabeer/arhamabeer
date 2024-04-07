@@ -5,11 +5,11 @@
  -->
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230" />
 
-- 🔭 I’m currently working on a Vending Machine Software.🎰
+- 🔭 I’m currently working on a Cloud Based Softwares.🎰
 - 🌱 I’m currently learning .NET Core & Docker.💡
 - 👯 I’m looking to collaborate on AI + IoT + Cloud Projects.🤖
 - 🤔 I’m looking for help with Software Development Tools.👨‍💻
-- 👁️ I’m looking to work with senior developers and with their teams (REMOTELY).🚀
+- 👁️ I’m looking to work with senior developers of big and multinational software firms.🚀
 - 💬 Ask me about any thing related to Technology.💻
 - 📫 How to reach me: avircoder@gmail.com📧
 - 😄 Pronouns: #AAA!🔥
