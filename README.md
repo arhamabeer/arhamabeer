@@ -10,7 +10,7 @@
 - 👯 I’m looking to collaborate on DevOps + Cloud Projects.🤖
 - 🤔 I’m looking for help with Software Development Tools.👨‍💻
 - 👁️ I’m looking to work with senior developers of big and multinational software firms.🚀
-- 💬 Ask me about any thing related to Technology.💻
+- 💬 Ask me about anything related to Technology.💻
 - 📫 How to reach me: avircoder@gmail.com📧
 - 😄 Pronouns: #AAA!🔥
 - ⚡ Fun fact: I google new problems every single time...🤣
@@ -25,15 +25,16 @@
 <a href="https://github.com/arhamabeer" style="width: 100px;">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arhamabeer&theme=monokai&hide=php,css,&size_weight=0.2&count_weight=0&langs_count=8&layout=donut" />
 </a> </p>
-<p>
-<a href="https://github.com/arhamabeer">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=arhamabeer&layout=compact&theme=monokai" />
-</a> </p>
+
 <p>
 <a href="https://github.com/arhamabeer">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=arhamabeer&show_icons=true&theme=monokai&line_height=27" alt="Arham's github stats"/>
 </a>
  </p>
+<p>
+<a href="https://github.com/arhamabeer">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=arhamabeer&layout=compact&theme=monokai" />
+</a> </p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arhamabeer&theme=monokai" alt="stats" /></p>
 <p><img align="center" src="https://komarev.com/ghpvc/?username=arhamabeer&style=flat-square&color=blueviolet" alt="stats" /></p>
