@@ -19,7 +19,8 @@
 
 <a href="https://www.buymeacoffee.com/arhamabeer" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" /></a>
 ---
-<p>https://wakatime.com/badge/user/26584afa-be4b-4221-a677-f62a0f04ead4.svg</p>>
+<a href="https://wakatime.com/@26584afa-be4b-4221-a677-f62a0f04ead4"><img src="https://wakatime.com/badge/user/26584afa-be4b-4221-a677-f62a0f04ead4.svg" alt="Total time coded since May 18 2023" /></a>
+
 <p>
 <a href="https://github.com/arhamabeer" style="width: 100px;">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arhamabeer&theme=monokai&hide=php,css,&size_weight=0.2&count_weight=0&langs_count=8&layout=donut" />
