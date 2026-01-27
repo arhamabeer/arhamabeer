@@ -23,6 +23,11 @@
 
 <p>
 <a href="https://github.com/arhamabeer">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=arhamabeer&layout=compact&theme=monokai" />
+</a> </p>
+
+<p>
+<a href="https://github.com/arhamabeer">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=arhamabeer&show_icons=true&theme=monokai&line_height=27" alt="Arham's github stats"/>
 </a>
  </p>
@@ -33,10 +38,7 @@
 </a> </p>
 
 
-<p>
-<a href="https://github.com/arhamabeer">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=arhamabeer&layout=compact&theme=monokai" />
-</a> </p>
+
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arhamabeer&theme=monokai" alt="stats" /></p>
 <p><img align="center" src="https://komarev.com/ghpvc/?username=arhamabeer&style=flat-square&color=blueviolet" alt="stats" /></p>
