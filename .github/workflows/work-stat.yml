@@ -11,6 +11,6 @@ jobs:
     name: Update this repo's README
     runs-on: ubuntu-latest
     steps:
-      - uses: arhamabeer/waka-readme@master 
+      - uses: arhamabeer/arhamabeer@main 
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_SECRET }}
