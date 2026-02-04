@@ -1,5 +1,6 @@
- <!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
+<!--START_SECTION:SHOW_DAYS_OF_WEEK-->
+<!--END_SECTION:SHOW_DAYS_OF_WEEK-->
+ 
 
 
 
