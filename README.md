@@ -1,9 +1,3 @@
-<!--START_SECTION:SHOW_PROJECTS-->
-<!--END_SECTION:SHOW_PROJECTS-->
- 
-
-
-
 ### Hi there!!!👋
 
 <!-- 
@@ -98,6 +92,13 @@
       alt="adampithewan" height="30" width="40" /></a>
 </p>
 </div>
+
+<div>
+<h2>Wakatime Coding Stats</h2>
+ <img src="https://wakatime.com/share/@arhamabeer/425f277c-8725-49e3-9994-453d299eab7d.svg" />
+</div>
+
+---
 <div>
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 </div>
